@@ -5,3 +5,11 @@ For the 2021 MYOB IT challenge, our group proposed the following solution: Disco
 We made a video that describes our solution in more detail.
 
 https://user-images.githubusercontent.com/40555861/129532738-705dc5bf-e96c-4f89-8683-60a4b9b4f3bc.mp4
+
+## Thanks to:
+![Group Photo](/ThankYou.PNG)
+
+[Lucy Zhu](https://www.linkedin.com/in/lucyzhu613/)  
+[Mohammad Hassaan Mirza](https://www.linkedin.com/in/mohammad-mirza/)  
+[Kimberley Evans-Parker](https://www.linkedin.com/in/kimberleyevans-parker/)  
+[Ryan Tan](https://www.linkedin.com/in/rtan18/)  
