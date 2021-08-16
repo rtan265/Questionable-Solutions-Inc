@@ -7,9 +7,9 @@ We made a video that describes our solution in more detail.
 https://user-images.githubusercontent.com/40555861/129532738-705dc5bf-e96c-4f89-8683-60a4b9b4f3bc.mp4
 
 ## Thanks to:
-![Group Photo](/ThankYou.PNG)
+![Thank You Slide](/ThankYou.PNG)
 
-[Lucy Zhu](https://www.linkedin.com/in/lucyzhu613/)  
-[Mohammad Hassaan Mirza](https://www.linkedin.com/in/mohammad-mirza/)  
 [Kimberley Evans-Parker](https://www.linkedin.com/in/kimberleyevans-parker/)  
+[Mohammad Hassaan Mirza](https://www.linkedin.com/in/mohammad-mirza/)  
 [Ryan Tan](https://www.linkedin.com/in/rtan18/)  
+[Lucy Zhu](https://www.linkedin.com/in/lucyzhu613/)  
